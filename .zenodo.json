@@ -1,0 +1,29 @@
+{
+    "title": "CLDF Dataset derived from Zhivlov's \"Annotated Swadesh wordlists for the Ob-Ugrian group\" from 2011",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "upload_type": "dataset",
+    "access_right": "open",
+    "contributors": [
+        {
+            "type": "Other",
+            "name": "Johann-Mattis List"
+        }
+    ],
+    "creators": [
+        {
+            "name": "Zhivlov, M."
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Zhivlov, M. (2011): Annotated Swadesh wordlists for the Ob-Ugrian group (Uralic family). The Global Lexicostatistical Database. Moscow: RGGU.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}
