@@ -1,10 +1,16 @@
 # CLDF Dataset derived from Zhivlov's "Annotated Swadesh wordlists for the Ob-Ugrian group" from 2011
 
-Cite the source dataset as
+## How to cite
 
-> Zhivlov, M. (2011): Annotated Swadesh wordlists for the Ob-Ugrian group (Uralic family). The Global Lexicostatistical Database. Moscow: RGGU.
+If you use these data please cite
+- the original source
+  > Zhivlov, M. (2011): Annotated Swadesh wordlists for the Ob-Ugrian group (Uralic family). The Global Lexicostatistical Database. Moscow: RGGU.
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
-This dataset is licensed under a CC-By-4.0 license
+## Description
+
+
+This dataset is licensed under a CC-BY-4.0 license
 
 Available online at https://github.com/SequenceComparison/SupplementaryMaterial/zipball/master
 
@@ -40,3 +46,10 @@ Johann-Mattis List | @LinguList | maintainer | Other
 Zhivlov, M. | | data collection | Author
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
