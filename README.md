@@ -1,5 +1,7 @@
 # CLDF Dataset derived from Zhivlov's "Annotated Swadesh wordlists for the Ob-Ugrian group" from 2011
 
+[![CLDF validation](https://github.com/SequenceComparison/zhivlovobugrian/workflows/CLDF-validation/badge.svg)](https://github.com/SequenceComparison/zhivlovobugrian/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -20,6 +22,7 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
+[![CLDF validation](https://github.com/SequenceComparison/zhivlovobugrian/workflows/CLDF-validation/badge.svg)](https://github.com/SequenceComparison/zhivlovobugrian/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 95%](https://img.shields.io/badge/Glottolog-95%25-green.svg "Glottolog: 95%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
