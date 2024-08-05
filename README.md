@@ -23,14 +23,14 @@ Conceptlists in Concepticon:
 
 
 [![CLDF validation](https://github.com/SequenceComparison/zhivlovobugrian/workflows/CLDF-validation/badge.svg)](https://github.com/SequenceComparison/zhivlovobugrian/actions?query=workflow%3ACLDF-validation)
-![Glottolog: 95%](https://img.shields.io/badge/Glottolog-95%25-green.svg "Glottolog: 95%")
+![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 21
-- **Concepts:** 110
+- **Varieties:** 21 (linked to 3 different Glottocodes)
+- **Concepts:** 110 (linked to 110 different Concepticon concept sets)
 - **Lexemes:** 2,055
 - **Sources:** 1
 - **Synonymy:** 1.01
@@ -38,14 +38,14 @@ Conceptlists in Concepticon:
 - **Cognate Diversity:** 0.07
 - **Invalid lexemes:** 0
 - **Tokens:** 7,586
-- **Segments:** 67 (0 BIPA errors, 0 CTLS sound class errors, 67 CLTS modified)
+- **Segments:** 67 (0 BIPA errors, 0 CLTS sound class errors, 67 CLTS modified)
 - **Inventory size (avg):** 33.19
 
 # Contributors
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
-Johann-Mattis List | @LinguList | maintainer | Other 
+Johann-Mattis List | @LinguList | maintainer | Editor
 Zhivlov, M. | | data collection | Author
 
 
